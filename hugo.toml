@@ -1,0 +1,4 @@
+baseURL = 'https://walidr.fr/'
+languageCode = 'fr'
+title = 'Le blog de Walid'
+theme = 'cleanwhite'
